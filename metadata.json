@@ -1,0 +1,6 @@
+{
+  "name": "TU Notes Hub SEO Engine",
+  "description": "Tribhuvan University (TU) Google Trends Telemetry, Auto-SEO Meta Tag Generator, Exam Radar, and Competitor Traffic Auditor for TU Notes Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
